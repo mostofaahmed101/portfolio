@@ -1,0 +1,115 @@
+.bgch {
+    background-image: url('../img/tech_bg_t1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position-y: -120px; */
+    filter: contrast(150%);
+}
+
+.bgc1 {
+    background-color: black;
+    /*background-image: url('../img/bg\powernavybg1.jpg');*/
+}
+
+.bgc2 {
+    background-color: black;
+}
+
+.bgc3 {
+    background-color: #020924;
+    /*background-image: url('../img/bg\powernavybg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+
+.bgc4 {
+    background-color: black;
+}
+
+.bgc5 {
+    background-color: black;
+}
+
+.bgc6 {
+    background-color: black;
+}
+
+.bgc7 {
+    background-color: black;
+}
+
+.bgcc {
+    background-color: transparent;
+    border-radius: 20px !important;
+}
+.wbgcc {
+    background-color: transparent;
+    border-radius: 20px !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+}
+.tbgcc {
+    background-color: transparent;
+    border-radius: 20px !important;
+    height: 380px;
+    width: 100%; 
+    box-shadow: 0 0 5px 1px #a63aff !important; 
+    text-align:center
+}
+
+.bgnav {
+    background-color: #a63aff5e;
+}
+
+.bgbtn {
+    /* background-color: #a63aff; */
+    background-image: linear-gradient(to right, #A259FF 0%, #6A00FF 100%);
+    color: white;
+    border-width: 0;
+    box-shadow: 0 0 2px 1px #a63aff !important;
+}
+.bgbtn:hover {
+    color: black;
+    box-shadow: 0 0 5px 2px #a63aff !important;
+    /* border: 2px solid green; */
+}
+.bgx {
+    background-color: #a63aff !important;
+    color: white;
+}
+
+.fox {
+    color: #a63aff !important;
+}
+
+.bx {
+    border-color: #a63aff !important;
+}
+.bgxs{
+    border-color: #fff;
+    box-shadow: 
+      0 0 9px #fff,
+      0 0 15px blue,
+      0 0 30px blue !important;
+}
+iframe{
+    border-radius: 15px;
+    height: 273px;
+}
+.titletext{
+    color: white; 
+    text-shadow: 
+      0 0 5px #fff,
+      0 0 21px blue,
+      0 0 37px blue;
+}
+
+
+
+
+/* 
+======================
+Mostofa's Portfolio
+Developed By.
+        Mostofa Mahin
+====================== */
